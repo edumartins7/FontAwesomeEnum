@@ -54,10 +54,15 @@ ipch/
 *.sdf
 *.cachefile
 
+
+#Visual Studio
+.vs
+
 # Visual Studio profiler
 *.psess
 *.vsp
 *.vspx
+
 
 # Guidance Automation Toolkit
 *.gpState
